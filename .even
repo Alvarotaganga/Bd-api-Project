@@ -1,0 +1,1 @@
+MYSQL_URI=mysql://usuario:contraseña@host:puerto/base_de_datos
